@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 /*** @title GameNyx NFT Smart Contract 
-* @author Koleen Paunon and BlockShots team @ https://blockshots.io
+* @author BlockShots team @ https://blockshots.io
 * @notice This contract handles the ERC721 implementation, which allowas users to mint, burn and transfer their NFTs.
 */
 contract GameNyxNFT is ERC721, ERC721URIStorage, ERC721Burnable, Ownable {
