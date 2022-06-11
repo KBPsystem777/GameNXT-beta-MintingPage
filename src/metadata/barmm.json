@@ -1,0 +1,19 @@
+{
+  "name": "GameNyx NFT #3",
+  "description": "GameNyx's BARMM",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQf8QDNsD9RDud3qDt5q7XrHDRhpkNJCM7t12Khdg11bH",
+  "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+  "edition": 1,
+  "date": 1653235883644,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Logo"
+    },
+    {
+      "trait_type": "image",
+      "value": "BARMM"
+    }
+  ],
+  "compiler": "GameNyx Art Engine"
+}
